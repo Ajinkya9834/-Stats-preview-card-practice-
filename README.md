@@ -38,6 +38,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
-- Twitter - (https://www.twitter.com/yourusername)
+- Frontend Mentor (see other challenges done) - (https://www.frontendmentor.io/profile/Ajinkya9834)
+- My Linkedin profile - (www.linkedin.com/in/ajinkya-hajare)
 
