@@ -4,12 +4,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Table of contents
 
+  - [Project published link](#the-Project-published-link)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Author](#author)
 
-
+### Project published link: https://ajinkya9834.github.io/-Stats-preview-card-practice-/
 
 ### The challenge
 
